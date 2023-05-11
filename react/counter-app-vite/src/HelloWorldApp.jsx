@@ -8,6 +8,8 @@
 
 export const HelloWorldApp = () => {
     return (
-        <div>Hellow World App</div>
-    )
+        <h1>Hellow World App</h1>
+    );
 }
+
+
